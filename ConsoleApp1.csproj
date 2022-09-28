@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp1.Constructor</StartupObject>
+    <StartupObject>ConsoleApp1.Exceptions</StartupObject>
   </PropertyGroup>
 
 </Project>
